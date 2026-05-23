@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-last-call-cowboy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: The Last Call Cowboy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-last-call-cowboy/) |
+| **Get License** | [Official Music Licensing for The Last Call Cowboy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-last-call-cowboy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The neon signs are fading, but your eyes are shining bright
+> I’ve been riding through the shadows just to find you here tonight
+> Pour a little whiskey, let the world just fade away
+> You’re the only destination where my restless body will stay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
